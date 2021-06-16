@@ -14,9 +14,6 @@ img {
 .header {
   background: #F2F3F6;
 }
-.hero-block {
-  margin-left: 20px;
-}
 .menu {
   list-style: none; /*убираем стили листа (точки)*/
   padding: 0; /*убираем внутренние отступы элемента*/
